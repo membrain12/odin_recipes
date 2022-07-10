@@ -1,0 +1,2 @@
+This project is a recipe webpage. It will include images and recipes for food.
+The project will demonstrate the ability to use HTML to add images and link to other websites in a made from scratch webpage.
